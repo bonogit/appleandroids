@@ -1,0 +1,20 @@
+function calculateAge(birth, current){
+	var age1, age2;
+	age1 = current - birth;
+	age2 = current - birth + 1;
+	console.log('You are either ' + age1 + ' or ' + age2 );
+}
+
+calculateAge (1960, 2015)
+calculateAge (1970, 2015)
+calculateAge (1980, 2015)
+
+function calculateSupply (age, amount){
+	var amountAll;
+	amountAll = (90 - age) * amount * 365;
+	console.log ('You will need '+amountAll+'to last you until the ripe old age of '+ age);
+}
+
+calculateSupply (70, 10)
+calculateSupply (60, 10)
+calculateSupply (50, 10)
