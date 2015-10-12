@@ -1,0 +1,13 @@
+*{
+  font-family: sans-serif;
+  background-color: rgb(153,102,153);
+}
+
+button {
+  border-color: gold;
+  width: 100px;
+  height: 40px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+

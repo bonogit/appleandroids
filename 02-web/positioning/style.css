@@ -1,0 +1,30 @@
+body{
+  background-color: linen;
+
+}
+
+.container {
+border:1px solid black;
+max-width: 600px;
+margin: 0 auto;
+}
+ .image{
+  max-width: 50px;
+  max-height: 80px;
+ }
+
+ .hide{
+  visibility: visible;
+ }
+
+ .showInline{
+  display: inline;
+  background-color: yellow;
+  width: 1000px;
+ }
+
+ .showInlineBlock{
+  display: inline-block;
+  width: 30%;
+  background-color: plum;
+ }

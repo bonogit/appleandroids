@@ -1,0 +1,38 @@
+/* 
+
+## Style Hints: 
+
+Body Font Size = 12px
+	 Line Height = 17px
+	 Font Family = "Times New Roman", serif
+	 Font Color = #656565
+
+Link Hover Color = #20222a
+
+*/
+li{
+/*width: 60%;
+margin:0 auto;*/
+  display: inline-block;
+
+}
+
+.date{
+  color: blue;
+}
+img{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+body{
+  margin-left: 15%;
+  margin-right: 15%;
+  font-family: "Times New Roman",serif;
+  font color: #656565;
+  font-size: 12px;
+  line-height: 17px;
+
+}
+.content{
+  width: 960px;
+}
